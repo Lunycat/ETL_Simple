@@ -1,0 +1,1047 @@
+order_id,customer_name,category,region,quantity,price,order_date,status
+1,,Electronics,North,-1,141.14,2024-04-24,paid
+2,Eve,Electronics,north ,5,20.73,2024-02-17,pending
+3,Eve,electronics,north ,5,114.12,2024-10-28,paid
+4,  Bob,Food,East,3,142.55,2024-04-20,cancelled
+5,Diana,Electronics,West,0,175.26,2024-05-15,PAID
+6,Diana,Electronics,north ,3,415.56,2024-11-12,cancelled
+7,,Electronics,North,-1,117.81,2024-05-28,shipped
+8,Diana,Books,East,-1,417.88,2024-03-24,shipped
+9,,Food,North,10,319.31,2024-09-30,shipped
+10,Charlie ,Food,north ,2,343.88,2024-01-29,paid
+11,Diana,Books,North,2,457.0,2024-10-17,cancelled
+12,Diana,books ,East,2,136.12,2024-05-06,pending
+13,Eve,books ,north ,5,184.19,2024-03-11,paid
+14,Alice,electronics,South,0,341.84,2024-11-01,PAID
+15,Diana,Clothing,West,10,431.09,2024-01-06,paid
+16,Eve,Books,West,1,150.28,2024-03-21,cancelled
+17,  Bob,Clothing,North,0,314.52,2024-11-23,shipped
+18,  Bob,Clothing,north ,1,301.48,invalid-date,cancelled
+19,Charlie ,electronics,North,2,439.61,2024-02-10,PAID
+20,Eve,electronics,South,-1,240.26,2024-10-08,pending
+21,Diana,electronics,north ,0,366.32,2024-04-12,PAID
+22,,Books,East,10,228.49,2024-05-06,cancelled
+22,,Books,East,10,228.49,2024-05-06,cancelled
+23,Eve,electronics,north ,2,8.56,2024-12-28,shipped
+24,Alice,Books,North,10,122.81,2024-12-08,pending
+25,Eve,Clothing,East,2,393.39,2024-07-27,paid
+26,Charlie ,books ,East,5,432.6,2024-01-28,paid
+27,,Books,North,2,99.84,2024-10-01,PAID
+28,Diana,electronics,North,5,404.97,2024-10-08,pending
+29,Alice,electronics,South,5,245.39,2024-04-19,paid
+30,Alice,books ,West,0,393.64,2024-05-26,pending
+31,Diana,electronics,South,3,112.76,2024-01-30,pending
+32,Charlie ,Electronics,North,10,241.01,2024-09-28,pending
+33,  Bob,Electronics,north ,1,339.23,2024-04-30,pending
+34,Eve,Electronics,north ,1,212.52,2024-10-25,cancelled
+35,  Bob,Food,West,2,136.48,2024-03-08,cancelled
+36,Alice,Electronics,East,10,499.23,2024-02-21,shipped
+37,  Bob,Books,North,2,187.92,2024-03-21,pending
+38,Eve,Food,north ,1,335.59,2024-10-10,paid
+39,  Bob,Books,North,1,372.5,2024-03-20,pending
+40,Charlie ,electronics,West,10,246.82,2024-01-27,PAID
+41,Alice,Electronics,West,0,69.76,2024-05-14,PAID
+42,Diana,Clothing,North,1,42.25,2024-12-19,pending
+42,Diana,Clothing,North,1,42.25,2024-12-19,pending
+43,Charlie ,Clothing,north ,2,217.74,2024-01-22,paid
+44,  Bob,Food,South,-1,55.88,2024-10-13,PAID
+45,,electronics,South,0,85.44,2024-03-31,paid
+46,Charlie ,books ,South,3,83.8,2024-12-25,paid
+47,  Bob,electronics,East,3,156.07,2024-04-26,shipped
+48,Charlie ,Electronics,West,3,322.53,2024-07-23,pending
+49,Alice,Electronics,West,2,292.39,2024-05-15,pending
+50,,Books,East,10,492.2,2024-02-29,pending
+51,Alice,Food,East,1,262.36,2024-10-02,shipped
+52,Alice,Food,West,10,160.39,2024-03-04,cancelled
+53,,books ,West,5,350.12,2024-10-10,PAID
+54,Diana,Food,South,10,286.71,2024-07-26,paid
+55,  Bob,books ,north ,10,329.08,2024-08-26,shipped
+56,,electronics,North,3,260.15,2024-11-20,paid
+57,  Bob,Food,West,2,404.25,invalid-date,shipped
+58,Eve,Electronics,East,5,443.64,2024-10-21,PAID
+59,  Bob,electronics,North,0,430.92,2024-02-24,shipped
+60,,Clothing,East,1,280.92,2024-03-03,PAID
+61,Eve,Clothing,West,0,446.26,2024-11-09,pending
+62,Eve,books ,South,-1,431.44,2024-08-18,shipped
+63,Charlie ,Clothing,East,-1,123.43,2024-08-13,cancelled
+64,Charlie ,Books,north ,1,73.5,2024-04-28,shipped
+65,Alice,books ,East,3,273.59,2024-07-31,PAID
+66,Eve,Food,North,0,440.93,2024-10-21,paid
+67,Charlie ,books ,East,10,375.02,2024-10-06,shipped
+68,Charlie ,books ,East,1,197.48,2024-12-08,PAID
+69,Diana,electronics,north ,10,18.35,2024-07-20,paid
+70,Diana,electronics,East,2,29.89,2024-07-13,PAID
+71,Diana,Books,East,3,418.28,invalid-date,pending
+72,Charlie ,electronics,North,0,478.86,2024-01-21,shipped
+73,Alice,Clothing,South,2,67.48,2024-12-08,shipped
+74,Charlie ,Books,South,10,305.59,2024-02-28,shipped
+75,Alice,Clothing,North,3,290.02,2024-07-11,shipped
+76,,Food,South,1,350.11,2024-06-03,pending
+77,Eve,Electronics,West,10,217.05,2024-07-08,cancelled
+77,Eve,Electronics,West,10,217.05,2024-07-08,cancelled
+78,Diana,books ,North,5,480.59,2024-11-21,PAID
+79,Diana,electronics,north ,-1,138.69,2024-10-02,PAID
+80,,Clothing,West,3,426.6,2024-02-14,PAID
+81,Diana,Clothing,north ,-1,192.6,2024-01-15,cancelled
+82,  Bob,Books,West,3,143.43,2024-11-01,cancelled
+83,Eve,electronics,North,2,361.44,2024-09-07,shipped
+84,,Food,East,5,397.5,2024-02-17,PAID
+85,Charlie ,Food,north ,3,239.26,2024-09-28,pending
+86,,books ,West,3,129.44,2024-03-02,cancelled
+87,Eve,Food,South,2,112.11,2024-09-04,pending
+88,Eve,Clothing,West,1,417.15,2024-05-31,shipped
+89,,Clothing,South,3,27.53,2024-01-28,shipped
+90,Diana,Electronics,North,10,145.75,2024-09-02,shipped
+91,Charlie ,books ,North,0,37.35,2024-09-08,paid
+92,Eve,Books,North,2,63.63,2024-08-01,pending
+93,Eve,books ,East,5,152.19,2024-10-28,cancelled
+94,Alice,Clothing,North,0,107.86,2024-04-18,paid
+95,  Bob,Clothing,North,2,6.32,2024-08-18,PAID
+96,  Bob,Books,West,-1,430.51,2024-02-06,cancelled
+97,,Clothing,South,5,61.81,2024-04-25,cancelled
+98,Alice,Electronics,South,0,157.27,2024-10-18,PAID
+99,,Books,East,3,252.73,2024-09-09,pending
+99,,Books,East,3,252.73,2024-09-09,pending
+100,Diana,Food,West,10,128.93,2024-02-16,pending
+101,Alice,Food,West,10,24.91,2024-03-30,PAID
+102,  Bob,Clothing,East,-1,408.05,2024-02-16,PAID
+103,,Electronics,South,3,208.76,2024-09-10,PAID
+104,Eve,Electronics,East,1,160.69,2024-06-14,PAID
+105,Alice,Food,north ,5,209.56,2024-04-06,pending
+106,,books ,North,2,137.19,2024-03-08,PAID
+107,Diana,Electronics,North,-1,306.39,2024-05-02,cancelled
+108,Eve,books ,North,2,496.17,2024-02-28,paid
+109,  Bob,books ,West,10,354.18,2024-07-31,PAID
+110,Eve,electronics,East,2,461.32,2024-09-17,shipped
+111,Charlie ,books ,West,0,256.33,2024-01-02,cancelled
+112,Eve,Food,East,0,78.55,2024-10-02,cancelled
+113,Eve,books ,East,3,435.45,2024-12-23,PAID
+114,Diana,Electronics,West,-1,239.12,2024-07-14,shipped
+115,Alice,electronics,north ,10,169.34,2024-02-21,PAID
+116,Diana,Electronics,South,5,436.11,2024-03-20,cancelled
+117,,books ,North,0,167.64,2024-12-11,PAID
+118,,Food,East,0,272.8,2024-11-12,cancelled
+119,,Electronics,East,1,381.38,2024-12-26,PAID
+120,Charlie ,Electronics,North,3,399.09,2024-05-30,PAID
+121,Eve,books ,north ,-1,397.3,2024-03-28,pending
+122,Eve,Food,South,5,456.85,2024-03-14,cancelled
+123,,Electronics,East,3,340.42,2024-03-21,cancelled
+124,Charlie ,Food,East,-1,128.8,2024-06-03,PAID
+125,Alice,electronics,East,10,182.68,2024-05-31,cancelled
+125,Alice,electronics,East,10,182.68,2024-05-31,cancelled
+126,,books ,West,1,285.13,2024-12-17,paid
+127,,books ,West,0,400.44,2024-11-06,shipped
+128,Eve,Books,South,-1,53.1,2024-11-17,cancelled
+129,Alice,Clothing,West,-1,70.05,2024-05-31,PAID
+130,  Bob,Clothing,West,10,253.39,2024-05-19,cancelled
+131,Diana,Books,West,0,62.01,2024-02-08,shipped
+132,,Food,East,0,403.27,2024-07-06,PAID
+132,,Food,East,0,403.27,2024-07-06,PAID
+133,Eve,Electronics,East,3,338.05,2024-12-10,PAID
+134,Charlie ,Electronics,South,5,17.39,2024-10-14,pending
+135,Alice,Food,East,-1,154.58,2024-07-28,paid
+136,Charlie ,books ,North,1,121.23,2024-10-02,PAID
+137,,Food,north ,5,295.73,2024-03-20,paid
+138,Eve,books ,West,1,346.69,2024-04-21,shipped
+139,Alice,Food,West,10,451.34,2024-11-26,PAID
+140,Alice,books ,North,-1,109.99,2024-11-23,paid
+141,Charlie ,electronics,South,0,284.47,2024-02-05,pending
+142,  Bob,electronics,West,0,78.04,invalid-date,shipped
+143,Eve,Books,South,1,332.22,2024-01-14,cancelled
+144,  Bob,Clothing,West,1,91.25,2024-01-27,PAID
+145,,Electronics,East,5,390.12,2024-09-19,PAID
+146,Eve,Electronics,north ,3,231.73,2024-01-16,PAID
+147,Diana,Food,North,5,357.64,2024-08-15,paid
+148,  Bob,Electronics,South,3,314.04,2024-10-26,cancelled
+149,Eve,Clothing,West,5,255.25,2024-08-08,paid
+150,,Clothing,South,5,228.52,2024-04-26,PAID
+151,,Electronics,West,5,159.7,2024-05-10,shipped
+152,Diana,Electronics,North,0,47.26,2024-08-09,cancelled
+153,Eve,Electronics,north ,10,283.03,2024-12-09,cancelled
+154,Diana,Food,North,3,302.2,2024-06-29,pending
+155,,books ,South,0,58.57,2024-10-11,cancelled
+156,Diana,Clothing,north ,10,339.11,invalid-date,cancelled
+156,Diana,Clothing,north ,10,339.11,invalid-date,cancelled
+157,Charlie ,Food,West,3,178.76,2024-04-02,pending
+158,Alice,electronics,North,1,374.33,2024-04-20,PAID
+159,Charlie ,Books,West,0,471.0,2024-11-01,paid
+160,Eve,Electronics,North,3,224.34,2024-08-05,PAID
+161,  Bob,Clothing,North,3,217.81,2024-05-25,pending
+162,,Books,North,2,200.66,2024-11-02,shipped
+163,  Bob,electronics,West,3,167.42,2024-01-04,PAID
+164,Diana,Clothing,South,10,281.57,2024-12-08,paid
+165,,Electronics,East,1,232.58,2024-02-09,pending
+166,Diana,Food,East,3,62.01,2024-01-11,shipped
+167,Eve,books ,West,1,221.17,2024-02-24,pending
+168,Alice,books ,West,-1,173.06,2024-06-19,paid
+169,Alice,Clothing,north ,2,453.43,2024-06-27,shipped
+170,  Bob,Books,South,2,303.19,2024-12-01,PAID
+171,Eve,Clothing,East,-1,462.46,2024-10-16,pending
+172,,Books,South,5,38.8,2024-08-14,cancelled
+173,Charlie ,Clothing,North,3,233.56,2024-01-20,cancelled
+174,Alice,Clothing,north ,10,195.32,2024-10-24,paid
+175,Eve,Food,South,3,304.48,2024-09-13,paid
+176,Charlie ,Food,North,10,324.83,2024-01-21,PAID
+177,Eve,Clothing,north ,2,185.13,2024-05-24,cancelled
+178,Alice,Food,West,1,168.2,2024-10-12,cancelled
+179,,Clothing,South,3,45.34,2024-12-05,cancelled
+180,,Food,East,2,299.55,2024-02-13,PAID
+181,Charlie ,electronics,north ,1,324.78,2024-08-04,paid
+182,  Bob,electronics,West,0,245.7,2024-04-25,shipped
+183,Alice,Clothing,north ,0,370.63,2024-09-26,cancelled
+184,Eve,electronics,north ,5,81.36,2024-04-02,pending
+185,  Bob,Food,East,1,208.38,2024-12-12,PAID
+186,,books ,South,10,123.39,2024-08-28,shipped
+187,Eve,books ,East,0,144.48,2024-07-14,PAID
+188,  Bob,Clothing,South,0,128.75,2024-11-24,cancelled
+189,Alice,Food,north ,0,66.72,2024-02-12,cancelled
+190,Eve,electronics,East,1,473.47,2024-04-23,cancelled
+191,Diana,Electronics,East,10,190.11,2024-07-16,cancelled
+192,Charlie ,Electronics,West,0,77.29,2024-01-20,PAID
+193,  Bob,Food,East,5,309.6,invalid-date,shipped
+194,Eve,Food,north ,10,214.51,2024-05-27,paid
+194,Eve,Food,north ,10,214.51,2024-05-27,paid
+195,Diana,Food,north ,5,36.09,2024-09-12,paid
+196,Eve,electronics,South,3,217.47,2024-11-10,pending
+197,,Food,North,10,487.45,2024-02-04,pending
+198,Eve,Clothing,North,5,437.3,2024-01-23,cancelled
+199,Alice,Books,North,3,124.36,2024-12-02,pending
+200,Charlie ,electronics,North,3,275.28,2024-11-25,PAID
+201,Diana,Food,South,0,71.75,2024-08-22,shipped
+201,Diana,Food,South,0,71.75,2024-08-22,shipped
+202,  Bob,Electronics,West,3,260.11,2024-10-05,paid
+203,  Bob,Books,West,0,391.52,2024-12-01,paid
+204,Diana,books ,East,5,172.82,2024-04-05,PAID
+205,Eve,Books,North,-1,215.13,2024-08-08,shipped
+206,Charlie ,Electronics,North,3,332.16,2024-06-05,PAID
+207,Diana,Books,East,1,364.77,2024-06-29,PAID
+208,Alice,Electronics,East,3,258.98,2024-12-13,paid
+209,Eve,Food,East,1,67.48,2024-04-30,cancelled
+210,Eve,Electronics,north ,2,341.14,2024-07-08,paid
+211,Eve,Books,East,3,326.53,2024-05-07,paid
+212,Diana,Clothing,East,10,63.29,2024-05-13,shipped
+213,Charlie ,Food,East,2,65.71,2024-02-07,PAID
+214,,Books,West,-1,37.14,2024-10-04,cancelled
+215,,Food,South,0,183.94,2024-04-24,shipped
+216,  Bob,books ,North,3,279.24,2024-07-07,pending
+217,Alice,Electronics,West,5,499.8,2024-09-02,PAID
+218,Alice,electronics,West,-1,41.71,2024-08-26,cancelled
+219,Eve,Food,north ,2,385.05,2024-03-07,paid
+220,Eve,electronics,West,2,85.17,2024-12-29,pending
+221,Alice,Books,South,-1,478.39,2024-05-20,cancelled
+222,Alice,Clothing,South,10,471.1,2024-03-19,pending
+223,Eve,Books,north ,1,413.49,2024-01-15,pending
+224,  Bob,Clothing,East,10,321.3,2024-09-11,pending
+225,Charlie ,books ,South,0,404.64,2024-07-26,paid
+226,  Bob,books ,East,5,234.9,2024-06-23,cancelled
+227,Charlie ,Food,West,5,69.73,2024-07-08,paid
+228,Diana,Electronics,West,5,127.72,2024-02-19,PAID
+229,Diana,electronics,South,0,167.08,2024-10-22,shipped
+230,Diana,Clothing,East,5,440.14,invalid-date,PAID
+231,  Bob,electronics,north ,3,29.09,2024-05-24,PAID
+232,Alice,Electronics,East,2,441.82,2024-07-06,cancelled
+232,Alice,Electronics,East,2,441.82,2024-07-06,cancelled
+233,Alice,Clothing,north ,2,184.45,2024-05-27,pending
+234,Eve,Books,north ,-1,307.47,2024-03-06,PAID
+235,Charlie ,Clothing,West,0,76.41,2024-11-04,pending
+235,Charlie ,Clothing,West,0,76.41,2024-11-04,pending
+236,Alice,electronics,West,0,239.5,2024-08-21,pending
+237,Eve,Books,South,5,495.35,2024-06-02,pending
+238,Eve,books ,north ,3,240.07,2024-01-09,paid
+239,Eve,Books,North,10,239.92,2024-12-01,pending
+240,,Electronics,north ,5,89.4,2024-11-18,PAID
+241,,electronics,North,10,474.36,2024-02-26,PAID
+242,  Bob,books ,South,5,253.4,2024-11-09,paid
+243,Eve,electronics,north ,3,499.07,2024-09-01,cancelled
+244,Diana,Clothing,West,10,180.37,2024-12-14,cancelled
+245,  Bob,electronics,West,10,152.76,2024-06-01,shipped
+246,Diana,Books,East,3,282.44,2024-05-20,pending
+247,Diana,books ,West,0,403.28,2024-05-28,paid
+248,Diana,Food,West,-1,242.14,2024-04-13,cancelled
+249,,Books,South,1,309.76,2024-10-27,paid
+250,Eve,electronics,South,1,54.6,2024-06-18,paid
+251,  Bob,Electronics,north ,2,206.42,2024-08-31,shipped
+252,Charlie ,Books,West,-1,34.29,2024-02-15,shipped
+253,,Electronics,South,5,441.71,2024-03-31,paid
+254,Diana,books ,South,-1,481.26,2024-05-28,paid
+255,Eve,Electronics,West,3,229.9,2024-11-24,PAID
+256,  Bob,Clothing,East,3,100.44,2024-02-27,PAID
+257,,electronics,North,-1,171.87,2024-05-31,shipped
+258,,books ,East,10,167.32,2024-07-24,shipped
+259,Diana,Books,South,1,134.09,2024-04-30,cancelled
+260,Charlie ,Clothing,north ,1,134.47,2024-07-03,paid
+261,Diana,Books,South,5,344.61,2024-12-26,paid
+262,Charlie ,Books,north ,2,113.47,2024-03-09,PAID
+263,Eve,Books,East,-1,276.87,2024-08-29,shipped
+264,,Clothing,North,10,226.14,2024-12-26,pending
+265,Eve,Clothing,South,10,270.65,2024-03-25,pending
+266,,electronics,north ,5,50.02,2024-09-18,paid
+267,Eve,books ,East,10,33.58,2024-08-24,cancelled
+268,Diana,Books,North,-1,112.86,2024-02-07,cancelled
+269,Eve,Electronics,North,5,20.71,2024-07-28,shipped
+270,,Food,East,3,496.46,2024-07-14,PAID
+271,,Food,north ,2,328.5,2024-06-27,pending
+272,  Bob,Food,South,0,6.72,2024-01-12,PAID
+273,Eve,books ,north ,5,412.56,2024-05-06,shipped
+274,,Electronics,North,0,331.8,2024-11-10,paid
+275,Alice,Electronics,north ,1,225.99,2024-12-10,paid
+276,Alice,books ,East,2,272.18,2024-01-29,cancelled
+277,,Clothing,West,10,300.97,2024-12-10,shipped
+278,  Bob,Food,north ,2,209.71,2024-05-20,pending
+279,  Bob,Food,East,10,250.33,2024-06-25,PAID
+280,Charlie ,Food,East,5,78.86,2024-07-11,pending
+281,  Bob,Books,South,0,234.2,2024-01-30,PAID
+282,  Bob,books ,South,3,105.65,2024-11-27,PAID
+283,Alice,Clothing,South,1,137.89,2024-12-10,paid
+284,  Bob,Clothing,north ,2,242.3,2024-06-19,paid
+285,  Bob,Food,North,-1,499.79,2024-09-02,pending
+286,Diana,electronics,north ,3,388.88,2024-07-13,cancelled
+287,Charlie ,Clothing,East,5,53.81,2024-08-28,cancelled
+288,Charlie ,Books,East,1,283.45,2024-04-23,paid
+289,Eve,Clothing,East,3,80.44,2024-06-17,pending
+290,Diana,Clothing,West,3,382.86,2024-09-07,PAID
+291,,Books,South,2,361.56,2024-09-07,pending
+292,Alice,Clothing,North,0,424.12,2024-12-08,paid
+293,,electronics,North,-1,79.76,2024-04-21,cancelled
+294,,Food,north ,5,331.35,invalid-date,pending
+295,Alice,Clothing,West,10,488.85,2024-01-09,PAID
+296,  Bob,Electronics,North,10,78.7,2024-04-08,cancelled
+297,Charlie ,books ,North,3,479.85,2024-08-23,shipped
+298,Alice,Food,North,1,205.61,2024-07-12,paid
+299,,electronics,North,5,423.44,2024-11-26,pending
+300,Alice,Clothing,North,2,109.65,2024-12-20,PAID
+301,Alice,Food,West,10,283.94,2024-01-17,cancelled
+301,Alice,Food,West,10,283.94,2024-01-17,cancelled
+302,  Bob,Clothing,South,0,411.24,2024-07-22,cancelled
+303,  Bob,Clothing,East,-1,448.78,2024-06-18,shipped
+304,,Food,North,10,374.0,2024-06-26,PAID
+305,Alice,Books,north ,0,308.86,2024-10-31,cancelled
+305,Alice,Books,north ,0,308.86,2024-10-31,cancelled
+306,Charlie ,books ,East,2,181.13,2024-07-11,pending
+307,Alice,Clothing,West,0,126.99,2024-02-07,shipped
+308,,electronics,East,3,183.55,invalid-date,cancelled
+309,Charlie ,Electronics,South,1,97.76,2024-08-17,pending
+310,Alice,Electronics,West,10,51.07,2024-11-02,PAID
+310,Alice,Electronics,West,10,51.07,2024-11-02,PAID
+311,Diana,books ,North,-1,451.06,2024-05-04,shipped
+312,  Bob,electronics,West,3,137.86,2024-03-15,PAID
+313,Charlie ,books ,North,3,129.59,2024-05-06,PAID
+314,  Bob,books ,North,2,155.81,2024-07-21,pending
+315,Charlie ,books ,West,5,408.66,2024-11-29,shipped
+316,Eve,Food,South,5,160.52,2024-07-22,cancelled
+317,,books ,north ,0,125.0,2024-07-11,PAID
+318,Eve,electronics,north ,10,94.06,invalid-date,PAID
+319,  Bob,books ,West,0,347.95,2024-07-28,shipped
+320,  Bob,Books,South,-1,214.45,2024-07-12,pending
+321,Diana,Clothing,north ,0,347.4,2024-10-05,cancelled
+322,Eve,Clothing,North,1,385.63,2024-12-02,shipped
+323,Alice,Clothing,East,0,169.14,2024-08-08,paid
+324,Eve,Food,north ,10,292.36,2024-10-21,cancelled
+325,,Clothing,north ,2,175.76,2024-01-13,cancelled
+326,Alice,Electronics,South,3,159.39,2024-08-21,pending
+327,Diana,Electronics,East,-1,349.9,2024-06-12,paid
+328,Alice,Electronics,West,-1,59.13,2024-03-25,shipped
+329,Eve,electronics,West,10,216.05,2024-08-24,PAID
+330,  Bob,Food,East,5,19.45,2024-11-10,PAID
+331,Diana,Electronics,South,2,142.78,2024-12-26,paid
+332,Eve,electronics,West,3,102.55,2024-02-28,PAID
+333,,Books,north ,5,307.6,2024-10-27,cancelled
+334,Eve,electronics,West,10,297.13,2024-12-10,paid
+335,Alice,electronics,West,-1,74.97,2024-07-17,shipped
+336,Diana,electronics,East,-1,271.0,2024-11-26,shipped
+337,Diana,Books,South,2,160.72,2024-08-18,cancelled
+338,Diana,electronics,South,0,195.05,2024-10-14,PAID
+339,Diana,books ,East,5,87.79,2024-10-16,shipped
+340,Charlie ,electronics,north ,3,88.26,2024-08-22,PAID
+341,Alice,Clothing,North,3,388.68,2024-07-06,paid
+342,Diana,Clothing,South,5,55.7,2024-11-30,cancelled
+343,Alice,books ,West,3,431.79,2024-02-14,paid
+344,  Bob,electronics,north ,-1,178.56,2024-12-29,PAID
+345,  Bob,electronics,South,0,34.38,2024-06-28,pending
+346,Charlie ,Food,West,3,288.5,2024-09-20,paid
+347,Diana,Electronics,West,0,329.67,2024-12-25,shipped
+348,Charlie ,electronics,East,5,75.37,2024-11-19,PAID
+349,Alice,Food,North,5,260.23,2024-05-22,cancelled
+350,Diana,Books,north ,1,435.11,2024-02-17,PAID
+351,,Books,North,0,269.54,2024-04-21,shipped
+352,Charlie ,Books,West,10,291.08,2024-10-16,cancelled
+353,Alice,Electronics,North,-1,393.03,invalid-date,shipped
+354,Alice,books ,South,-1,455.16,2024-11-28,cancelled
+355,Charlie ,Books,North,3,333.93,2024-11-28,PAID
+356,,Food,South,5,329.47,2024-12-26,shipped
+357,  Bob,Clothing,South,10,341.59,invalid-date,cancelled
+358,Diana,Food,South,5,40.06,2024-07-15,paid
+359,Charlie ,Books,South,5,387.86,2024-03-09,shipped
+360,Eve,Electronics,north ,-1,86.24,2024-06-28,shipped
+361,Eve,Food,East,0,112.54,2024-02-21,paid
+362,Diana,Books,East,3,396.58,2024-05-06,paid
+363,Eve,Clothing,north ,3,390.59,invalid-date,cancelled
+364,Eve,Clothing,South,-1,198.92,2024-11-26,shipped
+365,Alice,electronics,East,-1,299.0,2024-09-27,paid
+366,Charlie ,electronics,East,0,420.29,2024-08-03,shipped
+367,Alice,Electronics,north ,1,11.83,2024-04-20,paid
+368,Diana,Clothing,West,-1,357.75,2024-07-31,PAID
+369,Eve,Clothing,north ,2,142.35,2024-06-07,shipped
+370,  Bob,Clothing,West,5,295.29,2024-11-28,paid
+371,Diana,Food,South,1,126.02,2024-08-10,pending
+372,Charlie ,Food,South,1,11.27,2024-03-11,shipped
+373,Charlie ,Clothing,north ,0,412.14,2024-05-12,shipped
+374,Charlie ,Food,North,0,450.45,2024-06-20,cancelled
+375,Charlie ,Food,north ,-1,43.15,2024-08-21,paid
+376,Eve,electronics,West,2,131.28,2024-02-22,paid
+377,Eve,Electronics,North,0,432.15,2024-05-05,cancelled
+378,  Bob,electronics,North,10,402.54,2024-12-31,PAID
+379,  Bob,books ,West,3,413.87,2024-10-19,pending
+380,Alice,electronics,South,0,260.31,2024-01-24,paid
+381,Charlie ,Books,West,1,278.78,2024-01-05,cancelled
+382,Charlie ,Food,north ,2,234.64,2024-10-29,shipped
+383,Eve,electronics,South,1,466.54,2024-01-13,cancelled
+384,,Electronics,West,1,380.67,2024-07-11,cancelled
+385,Eve,electronics,East,5,480.79,2024-03-13,paid
+385,Eve,electronics,East,5,480.79,2024-03-13,paid
+386,  Bob,Clothing,East,-1,448.31,2024-08-22,paid
+387,Eve,electronics,East,1,297.99,2024-02-01,shipped
+388,Charlie ,Books,East,-1,416.79,2024-06-16,cancelled
+389,  Bob,electronics,north ,1,81.93,2024-03-25,cancelled
+390,Eve,Books,South,5,157.61,2024-05-15,paid
+391,,Books,north ,1,111.44,2024-06-16,shipped
+392,Diana,Clothing,North,-1,152.93,2024-03-30,PAID
+393,Eve,Food,north ,2,51.89,2024-02-22,shipped
+394,Alice,electronics,South,2,412.72,2024-07-09,paid
+395,Charlie ,Electronics,North,1,102.89,2024-11-26,shipped
+396,Charlie ,Electronics,North,5,30.07,2024-10-20,PAID
+397,Diana,Food,East,2,180.2,2024-04-05,PAID
+398,Alice,Clothing,north ,10,126.66,2024-05-31,pending
+399,Alice,Books,East,2,212.52,2024-11-25,pending
+400,Eve,Electronics,East,0,358.12,2024-09-02,PAID
+401,Eve,Clothing,West,5,138.87,2024-01-14,shipped
+401,Eve,Clothing,West,5,138.87,2024-01-14,shipped
+402,Charlie ,Electronics,East,10,181.93,2024-10-26,shipped
+403,,electronics,West,10,409.06,2024-01-29,shipped
+404,Diana,Books,South,2,122.09,2024-06-11,cancelled
+405,Alice,Food,West,10,283.99,2024-10-15,PAID
+406,  Bob,books ,North,1,32.8,2024-11-04,pending
+407,Charlie ,Clothing,South,0,69.59,2024-03-31,cancelled
+408,  Bob,Clothing,South,0,59.91,2024-09-26,paid
+409,,books ,north ,1,171.6,2024-06-14,shipped
+410,Diana,Food,East,-1,162.06,2024-12-28,pending
+411,  Bob,Food,north ,0,91.8,2024-06-06,cancelled
+412,,Electronics,north ,5,426.12,2024-10-17,pending
+413,Eve,electronics,north ,1,468.66,2024-03-13,paid
+414,Charlie ,electronics,North,0,355.94,2024-11-23,cancelled
+415,Charlie ,electronics,South,-1,38.56,2024-05-11,paid
+415,Charlie ,electronics,South,-1,38.56,2024-05-11,paid
+416,Diana,Food,East,2,442.85,2024-09-09,cancelled
+417,Alice,books ,north ,-1,380.33,2024-04-25,paid
+418,Alice,Books,North,3,134.26,2024-02-23,shipped
+419,  Bob,Food,North,10,471.21,2024-02-17,pending
+420,,Electronics,East,-1,86.67,2024-08-10,paid
+421,  Bob,books ,north ,-1,463.16,2024-10-03,cancelled
+422,Alice,Electronics,East,10,277.08,2024-09-08,cancelled
+422,Alice,Electronics,East,10,277.08,2024-09-08,cancelled
+423,Alice,Books,north ,5,103.84,2024-01-14,cancelled
+424,Diana,Electronics,West,0,201.75,2024-09-07,cancelled
+425,Eve,books ,South,3,443.32,2024-07-08,paid
+426,Diana,Books,South,0,137.94,2024-02-01,paid
+427,Charlie ,Clothing,East,0,296.91,2024-10-10,PAID
+428,Diana,Clothing,East,10,441.42,2024-08-31,PAID
+429,,Electronics,north ,10,450.73,2024-10-19,pending
+430,Diana,electronics,South,2,405.19,2024-03-05,paid
+431,Diana,electronics,South,0,299.55,2024-06-12,paid
+432,Eve,books ,north ,3,429.03,2024-09-23,paid
+433,Eve,Clothing,north ,0,212.7,2024-07-31,pending
+434,Alice,Electronics,north ,0,54.99,2024-05-26,cancelled
+435,Charlie ,books ,East,10,306.44,2024-01-20,PAID
+436,Eve,Food,East,1,200.92,2024-06-18,paid
+437,Charlie ,Books,North,3,409.61,2024-06-04,PAID
+438,,Electronics,South,2,153.74,2024-08-14,cancelled
+439,Diana,Clothing,North,2,223.65,2024-07-27,pending
+440,Alice,Clothing,South,1,159.01,2024-09-16,pending
+441,Alice,electronics,South,0,104.36,2024-01-30,PAID
+442,Charlie ,Food,South,3,187.33,2024-08-25,paid
+443,  Bob,Books,East,10,225.82,2024-08-30,cancelled
+444,Charlie ,Food,North,3,18.59,2024-01-26,pending
+445,  Bob,electronics,South,-1,107.33,2024-11-29,paid
+446,,Electronics,East,2,325.45,2024-11-03,shipped
+447,Charlie ,Food,West,5,448.26,2024-06-27,shipped
+448,,Clothing,north ,5,294.32,2024-01-04,cancelled
+449,Eve,Clothing,West,3,343.78,2024-09-03,cancelled
+450,Charlie ,Books,West,2,79.22,2024-05-03,pending
+451,Charlie ,Food,South,-1,17.6,2024-09-11,cancelled
+452,Diana,books ,North,10,355.49,2024-10-19,cancelled
+453,  Bob,Food,north ,-1,393.52,2024-12-09,cancelled
+454,,Clothing,South,3,53.31,2024-03-06,pending
+455,  Bob,Food,West,-1,49.2,2024-06-30,cancelled
+456,Charlie ,Books,West,10,150.56,2024-03-01,pending
+457,Eve,Electronics,East,2,252.74,2024-12-14,cancelled
+458,  Bob,electronics,South,3,207.55,2024-10-18,PAID
+459,,electronics,North,5,169.65,2024-03-31,paid
+459,,electronics,North,5,169.65,2024-03-31,paid
+460,Charlie ,electronics,South,10,383.42,2024-09-07,paid
+461,Diana,Food,East,5,217.37,2024-09-01,paid
+462,,Books,North,3,379.64,2024-09-28,paid
+463,  Bob,electronics,West,3,68.82,2024-07-15,cancelled
+464,Alice,Books,West,5,365.28,2024-11-01,PAID
+465,  Bob,Books,East,3,376.31,2024-03-25,PAID
+465,  Bob,Books,East,3,376.31,2024-03-25,PAID
+466,  Bob,Food,South,2,368.37,2024-10-28,paid
+467,,Electronics,East,-1,131.62,2024-09-30,pending
+468,,Electronics,North,1,346.43,2024-08-01,paid
+469,Diana,Food,South,2,349.12,invalid-date,PAID
+470,,Clothing,West,10,304.79,2024-03-11,paid
+471,Eve,Electronics,West,1,393.46,2024-09-11,shipped
+472,Eve,electronics,West,-1,207.83,2024-03-23,PAID
+473,,books ,West,2,6.36,2024-12-09,paid
+474,,books ,South,1,390.87,2024-02-08,paid
+475,,electronics,East,3,135.74,2024-01-26,shipped
+476,Charlie ,Books,West,5,370.58,2024-02-18,paid
+476,Charlie ,Books,West,5,370.58,2024-02-18,paid
+477,  Bob,Food,South,3,181.98,2024-08-12,cancelled
+478,Alice,Books,West,2,61.35,2024-07-23,cancelled
+479,,books ,East,-1,443.63,2024-03-26,paid
+480,  Bob,Electronics,East,10,243.92,2024-10-18,shipped
+481,Charlie ,Clothing,North,0,343.81,2024-03-07,PAID
+482,Diana,books ,North,1,134.5,invalid-date,pending
+483,Eve,Food,north ,2,489.06,2024-12-08,pending
+484,,Clothing,North,5,332.55,2024-05-07,PAID
+485,Eve,Clothing,North,1,323.48,2024-03-21,PAID
+486,  Bob,Electronics,East,3,124.24,2024-05-22,shipped
+487,Diana,books ,South,1,232.25,2024-10-20,PAID
+488,Alice,books ,North,1,204.7,2024-01-19,paid
+489,Eve,Clothing,West,10,283.35,2024-12-01,cancelled
+490,Alice,electronics,East,3,282.27,2024-11-13,cancelled
+491,Alice,Electronics,South,1,173.97,2024-11-20,cancelled
+492,Charlie ,Food,North,1,448.95,2024-09-09,PAID
+493,Eve,electronics,South,1,465.46,2024-07-20,shipped
+494,Alice,books ,North,-1,419.55,2024-10-28,PAID
+495,Eve,Clothing,South,5,7.15,2024-01-25,PAID
+496,Diana,Clothing,South,-1,291.38,2024-03-06,pending
+497,Charlie ,Clothing,East,5,489.85,2024-12-20,cancelled
+498,Charlie ,Books,East,0,71.02,2024-07-30,pending
+499,,Clothing,West,-1,369.73,2024-10-10,shipped
+500,,Books,West,-1,70.67,2024-12-29,shipped
+501,,Food,West,-1,62.13,2024-06-29,pending
+502,,Food,East,-1,375.2,2024-09-30,PAID
+503,Eve,Electronics,North,5,76.94,2024-12-09,cancelled
+504,  Bob,Books,West,2,420.49,2024-12-19,shipped
+505,Alice,Books,East,1,309.97,2024-12-11,shipped
+506,Eve,books ,South,10,393.23,2024-12-22,paid
+507,Diana,books ,West,10,31.63,2024-05-08,PAID
+508,,Food,West,0,296.25,2024-11-04,shipped
+509,  Bob,Food,North,2,481.43,2024-09-20,paid
+510,Eve,Books,South,2,294.07,invalid-date,PAID
+511,  Bob,Electronics,South,3,300.46,2024-11-16,cancelled
+512,Eve,Clothing,West,1,393.1,2024-06-11,shipped
+513,Eve,electronics,East,10,270.83,2024-02-17,shipped
+514,Charlie ,Books,West,2,475.4,2024-11-12,pending
+515,,Electronics,North,-1,176.27,2024-05-03,pending
+516,  Bob,Electronics,West,5,458.39,2024-02-28,pending
+517,Alice,Clothing,West,10,402.39,2024-08-16,cancelled
+518,  Bob,Books,north ,1,474.36,2024-03-26,pending
+519,,Electronics,South,-1,316.61,2024-04-19,PAID
+520,  Bob,Clothing,East,-1,409.29,2024-02-06,shipped
+520,  Bob,Clothing,East,-1,409.29,2024-02-06,shipped
+521,,Books,North,1,41.26,2024-04-01,pending
+522,  Bob,Books,East,5,228.31,2024-07-26,paid
+523,Alice,Clothing,North,-1,361.54,2024-02-02,pending
+523,Alice,Clothing,North,-1,361.54,2024-02-02,pending
+524,Alice,Books,north ,1,148.47,2024-12-17,paid
+525,Diana,books ,East,0,332.06,2024-08-30,shipped
+526,Diana,Clothing,West,-1,76.32,2024-12-12,cancelled
+527,Alice,Clothing,north ,2,66.0,2024-01-03,PAID
+528,Alice,Books,South,-1,372.01,2024-06-25,pending
+529,  Bob,electronics,north ,0,130.11,2024-02-28,pending
+530,Eve,books ,north ,1,148.87,2024-02-04,shipped
+531,Diana,Books,West,2,337.29,2024-04-30,pending
+532,  Bob,Books,East,5,167.53,2024-12-03,pending
+533,Eve,Books,West,5,88.48,2024-06-09,shipped
+534,,books ,West,0,182.95,2024-12-13,PAID
+535,Charlie ,Books,East,10,58.87,2024-11-26,cancelled
+536,  Bob,Clothing,South,3,368.1,2024-11-16,paid
+537,Eve,Food,North,0,293.04,2024-07-26,shipped
+538,Eve,Books,north ,10,238.69,2024-03-17,shipped
+539,Eve,Food,West,2,235.03,2024-09-18,cancelled
+540,,electronics,north ,-1,87.09,2024-09-20,shipped
+541,Eve,Food,South,-1,367.34,2024-07-02,PAID
+542,Charlie ,Books,South,1,335.95,2024-09-22,cancelled
+543,Diana,Electronics,North,-1,165.42,2024-12-26,cancelled
+544,Charlie ,Clothing,north ,10,91.06,2024-11-30,pending
+545,Alice,Clothing,West,5,486.47,2024-04-24,cancelled
+546,Charlie ,books ,East,10,8.27,2024-03-12,shipped
+547,,Books,South,2,97.52,2024-07-04,paid
+548,Diana,Books,North,5,339.24,2024-09-02,shipped
+549,Diana,Electronics,South,1,68.3,2024-10-30,pending
+549,Diana,Electronics,South,1,68.3,2024-10-30,pending
+550,Eve,electronics,North,2,132.84,2024-04-02,PAID
+551,Eve,Food,North,-1,365.35,2024-05-25,shipped
+552,Diana,books ,South,2,416.03,2024-11-03,pending
+553,  Bob,Clothing,north ,3,88.02,2024-12-17,PAID
+554,Alice,electronics,East,5,70.45,2024-01-09,pending
+555,  Bob,Clothing,North,2,240.56,2024-11-10,pending
+556,Alice,Electronics,East,-1,69.51,2024-11-04,paid
+557,,Food,East,10,213.24,2024-01-23,PAID
+558,Diana,books ,West,10,403.29,2024-12-22,PAID
+559,Diana,electronics,North,3,301.15,2024-10-05,shipped
+559,Diana,electronics,North,3,301.15,2024-10-05,shipped
+560,,Electronics,north ,10,63.33,2024-01-04,shipped
+561,Charlie ,books ,West,1,81.62,2024-11-29,cancelled
+562,Diana,Clothing,West,10,141.4,2024-12-14,shipped
+563,Eve,books ,South,3,281.75,2024-09-04,cancelled
+564,,books ,South,0,432.6,2024-03-01,PAID
+565,  Bob,Electronics,South,10,203.28,2024-06-22,pending
+566,,Electronics,South,5,482.46,2024-01-03,shipped
+567,Eve,books ,North,1,135.23,2024-07-08,paid
+568,Diana,Clothing,north ,3,357.24,2024-11-01,shipped
+569,Diana,Electronics,South,0,330.16,2024-09-22,paid
+570,Eve,Clothing,South,10,88.89,2024-01-19,paid
+571,Alice,Books,East,3,336.48,2024-07-26,pending
+571,Alice,Books,East,3,336.48,2024-07-26,pending
+572,,Electronics,North,10,145.82,2024-10-13,cancelled
+573,Charlie ,electronics,north ,2,230.11,2024-07-25,cancelled
+574,Eve,Electronics,north ,1,254.07,2024-06-23,pending
+575,Eve,Clothing,West,-1,224.17,2024-07-12,shipped
+576,Diana,Food,East,10,431.7,2024-09-03,paid
+577,  Bob,Food,South,0,161.29,2024-06-29,paid
+578,Charlie ,electronics,West,1,202.47,2024-06-24,shipped
+579,Charlie ,electronics,north ,3,95.48,2024-12-15,shipped
+580,  Bob,electronics,South,0,136.38,2024-04-27,shipped
+581,Charlie ,electronics,North,1,460.49,2024-12-12,PAID
+582,Eve,Electronics,East,3,312.23,2024-09-09,pending
+583,Diana,electronics,north ,3,201.95,2024-10-22,pending
+584,Diana,Clothing,North,10,176.91,2024-12-17,PAID
+585,,Clothing,East,3,346.16,2024-01-07,PAID
+586,Charlie ,Books,north ,0,133.55,2024-10-07,cancelled
+587,Eve,Books,West,2,251.89,2024-04-17,cancelled
+588,Diana,Books,East,2,287.85,2024-10-21,paid
+589,  Bob,Clothing,East,0,193.54,2024-03-15,shipped
+590,Alice,electronics,East,5,71.56,2024-11-18,cancelled
+591,Charlie ,Books,north ,0,286.08,2024-07-22,shipped
+592,Charlie ,books ,North,5,373.57,2024-05-13,pending
+593,Charlie ,Books,North,5,65.01,2024-12-13,shipped
+594,,Food,north ,2,489.79,2024-05-25,pending
+595,,books ,North,5,308.76,2024-08-25,shipped
+596,,Books,East,-1,308.09,2024-07-26,paid
+597,Charlie ,electronics,West,3,328.24,2024-12-29,PAID
+598,Diana,Books,north ,10,482.94,2024-07-30,paid
+599,  Bob,Food,West,-1,351.84,2024-02-10,PAID
+600,Alice,books ,north ,1,18.05,2024-07-22,paid
+601,Eve,electronics,North,-1,466.14,2024-07-18,shipped
+602,Diana,Food,South,2,265.74,invalid-date,cancelled
+603,Charlie ,books ,East,0,272.59,2024-05-19,shipped
+604,,Clothing,South,10,300.8,2024-11-19,pending
+605,,Food,north ,3,454.92,2024-09-03,paid
+606,Charlie ,books ,West,2,155.27,2024-01-01,shipped
+607,Diana,Clothing,North,-1,461.43,2024-09-01,PAID
+608,Eve,electronics,North,10,189.95,2024-07-29,PAID
+609,  Bob,Food,East,0,192.29,2024-05-14,shipped
+610,Eve,Food,West,3,325.99,2024-09-29,PAID
+611,Alice,electronics,South,3,59.63,2024-08-21,cancelled
+612,Diana,electronics,West,1,80.31,invalid-date,paid
+613,  Bob,Food,East,-1,9.06,2024-02-16,PAID
+614,Diana,Books,East,3,234.52,2024-01-17,shipped
+615,Diana,Electronics,north ,5,94.89,2024-05-08,paid
+616,,electronics,East,0,487.61,2024-05-06,paid
+617,,Electronics,north ,-1,491.15,2024-08-30,cancelled
+618,  Bob,Food,North,-1,469.02,2024-09-23,PAID
+619,  Bob,Books,North,0,335.01,2024-02-27,PAID
+620,  Bob,Books,north ,1,200.93,invalid-date,paid
+621,,books ,north ,2,188.84,2024-02-15,PAID
+622,Eve,Books,North,1,180.98,2024-03-19,paid
+623,  Bob,Books,north ,0,324.1,2024-06-26,PAID
+624,Alice,Food,East,3,363.58,2024-05-08,PAID
+625,Eve,Books,north ,-1,247.6,2024-10-17,cancelled
+626,Diana,Books,north ,0,279.49,2024-02-05,PAID
+627,Charlie ,Clothing,West,5,5.36,2024-11-22,shipped
+628,Eve,Books,north ,2,163.74,2024-02-02,pending
+629,  Bob,Clothing,East,0,277.98,2024-11-09,PAID
+630,Alice,Electronics,north ,-1,38.01,2024-03-07,paid
+631,Diana,electronics,North,1,287.65,2024-07-17,pending
+632,Eve,Books,North,3,114.26,invalid-date,shipped
+633,Alice,books ,North,3,281.22,2024-07-31,paid
+634,Charlie ,Clothing,North,-1,39.84,2024-06-04,shipped
+635,Alice,Electronics,South,10,195.74,2024-04-08,shipped
+636,  Bob,Clothing,north ,5,374.32,2024-11-22,PAID
+637,Diana,Electronics,South,0,94.3,2024-07-24,shipped
+638,Eve,books ,West,3,277.29,2024-06-15,PAID
+639,Diana,Food,West,10,124.16,2024-10-06,pending
+640,Charlie ,Books,East,5,480.11,2024-01-01,cancelled
+641,Eve,electronics,West,1,153.67,2024-04-23,cancelled
+641,Eve,electronics,West,1,153.67,2024-04-23,cancelled
+642,,Books,north ,10,280.38,2024-10-19,paid
+643,  Bob,electronics,West,3,445.36,2024-05-07,cancelled
+644,Diana,Clothing,South,-1,43.21,2024-06-15,shipped
+645,,Food,north ,0,454.29,2024-10-31,paid
+646,Eve,books ,North,0,32.68,2024-06-20,PAID
+647,Alice,electronics,north ,1,318.77,2024-11-19,cancelled
+648,Charlie ,Clothing,north ,2,166.78,2024-12-23,paid
+649,Diana,books ,north ,10,254.84,2024-04-23,PAID
+650,Charlie ,Electronics,East,10,373.93,2024-10-07,paid
+651,Diana,Food,South,0,71.76,2024-10-13,PAID
+652,  Bob,Clothing,north ,-1,264.5,2024-05-04,PAID
+653,Eve,Electronics,North,-1,209.72,2024-07-06,cancelled
+654,,Electronics,West,2,493.89,2024-11-11,PAID
+655,Diana,Electronics,South,2,344.25,2024-03-20,paid
+656,Alice,electronics,north ,2,435.03,invalid-date,paid
+657,Diana,Electronics,West,2,371.31,2024-04-18,pending
+658,Eve,books ,north ,-1,496.19,2024-12-21,paid
+659,,Clothing,North,3,89.31,2024-05-25,pending
+660,Diana,Food,North,1,197.38,2024-05-18,cancelled
+661,Alice,Books,East,2,490.0,2024-09-17,paid
+662,Diana,Clothing,north ,1,97.28,2024-09-13,pending
+663,Alice,Electronics,South,10,155.94,2024-09-07,shipped
+663,Alice,Electronics,South,10,155.94,2024-09-07,shipped
+664,,Books,West,-1,154.65,2024-09-13,paid
+665,Diana,Electronics,north ,3,116.66,2024-06-23,shipped
+666,Diana,Clothing,north ,0,314.63,2024-04-26,pending
+667,Charlie ,Clothing,West,5,273.41,2024-04-15,pending
+668,  Bob,electronics,West,-1,354.04,2024-09-25,PAID
+669,  Bob,Food,north ,2,162.16,2024-10-12,paid
+670,  Bob,Food,North,0,162.75,2024-07-30,cancelled
+671,,Food,West,2,390.66,2024-02-24,paid
+672,Eve,Clothing,West,10,285.69,2024-04-28,shipped
+673,Charlie ,Electronics,East,2,253.65,2024-11-05,cancelled
+674,Diana,books ,East,2,86.07,2024-04-25,paid
+675,Diana,electronics,South,0,106.26,2024-03-31,PAID
+676,Diana,Food,West,0,231.48,2024-05-06,paid
+677,Diana,Food,West,5,307.69,2024-10-19,pending
+678,,Electronics,north ,1,228.55,2024-01-22,shipped
+679,Diana,Food,North,10,196.76,2024-11-18,shipped
+680,Diana,Books,West,5,87.41,2024-05-30,paid
+681,  Bob,books ,East,1,362.71,2024-02-27,pending
+682,,Clothing,South,5,209.71,invalid-date,PAID
+683,,electronics,East,1,128.79,2024-12-20,shipped
+684,Alice,Electronics,North,-1,227.45,2024-07-04,PAID
+685,Eve,Clothing,South,5,277.42,2024-01-23,cancelled
+686,,electronics,South,0,76.58,2024-12-30,cancelled
+687,Diana,Books,South,1,449.78,invalid-date,cancelled
+687,Diana,Books,South,1,449.78,invalid-date,cancelled
+688,Diana,books ,north ,0,7.85,2024-09-09,pending
+689,Diana,books ,East,1,302.6,2024-01-04,pending
+690,,Clothing,South,1,96.5,2024-01-29,paid
+691,Alice,Food,north ,0,303.63,2024-06-18,paid
+692,  Bob,electronics,West,10,332.16,2024-12-24,pending
+693,Diana,Food,north ,3,466.08,2024-02-17,cancelled
+694,Diana,Electronics,East,0,277.48,2024-05-29,paid
+695,Charlie ,Books,north ,5,264.7,2024-12-22,paid
+696,,Food,north ,1,244.41,2024-12-18,cancelled
+697,Charlie ,Books,north ,10,497.54,2024-06-30,pending
+698,Eve,Food,East,5,404.95,2024-11-08,cancelled
+699,Alice,Electronics,North,5,314.6,2024-03-01,shipped
+700,Diana,books ,North,3,178.08,2024-11-22,shipped
+701,Charlie ,Electronics,West,3,255.81,2024-06-14,paid
+702,Charlie ,books ,north ,10,480.26,2024-03-30,cancelled
+703,Diana,books ,North,-1,72.2,2024-03-20,pending
+704,Diana,books ,North,0,262.93,2024-10-16,cancelled
+705,Alice,electronics,north ,-1,169.2,2024-06-30,shipped
+706,Alice,Books,East,-1,269.47,2024-03-25,PAID
+707,Alice,Books,West,-1,20.66,2024-07-30,shipped
+708,Charlie ,electronics,north ,3,91.63,2024-07-10,shipped
+709,Diana,Clothing,North,0,243.92,2024-09-13,cancelled
+710,,Clothing,West,0,167.03,2024-02-20,pending
+711,  Bob,electronics,North,5,196.86,2024-09-24,cancelled
+712,,Clothing,North,3,236.1,2024-01-24,cancelled
+712,,Clothing,North,3,236.1,2024-01-24,cancelled
+713,Charlie ,Food,South,3,104.27,2024-05-26,cancelled
+714,,Electronics,West,2,82.96,invalid-date,pending
+715,Alice,electronics,north ,3,276.94,2024-05-18,cancelled
+716,  Bob,Electronics,West,10,446.66,2024-10-03,shipped
+716,  Bob,Electronics,West,10,446.66,2024-10-03,shipped
+717,,Electronics,North,5,31.63,2024-08-06,pending
+718,,Food,East,10,181.03,2024-06-19,pending
+719,Diana,Clothing,South,1,407.36,2024-12-23,PAID
+720,,Food,East,5,119.69,2024-04-24,pending
+721,Charlie ,books ,South,-1,459.05,2024-06-18,cancelled
+722,Alice,Electronics,East,1,178.96,2024-08-24,cancelled
+723,Eve,Clothing,South,10,55.95,2024-12-31,cancelled
+724,Alice,Books,north ,5,203.4,2024-07-30,shipped
+725,Diana,books ,North,3,108.08,2024-12-21,PAID
+726,Charlie ,Clothing,South,2,332.99,2024-02-09,pending
+727,Alice,Clothing,north ,5,166.06,2024-02-19,shipped
+728,Diana,Electronics,north ,1,344.33,2024-11-01,PAID
+729,,Food,North,1,112.72,2024-03-12,paid
+730,,electronics,East,10,149.29,2024-11-11,shipped
+731,Charlie ,Books,north ,0,457.04,2024-06-04,PAID
+732,Charlie ,Electronics,north ,1,307.69,2024-09-18,shipped
+733,Alice,Books,north ,1,5.42,2024-10-13,cancelled
+734,Charlie ,Electronics,South,5,352.6,2024-07-20,PAID
+735,Diana,Clothing,South,-1,90.84,2024-03-12,PAID
+736,Charlie ,books ,South,3,498.74,2024-12-09,paid
+737,Alice,electronics,East,-1,221.18,2024-03-10,PAID
+738,,Clothing,East,10,94.0,2024-09-17,PAID
+739,  Bob,electronics,East,10,8.68,2024-09-12,shipped
+740,Charlie ,books ,north ,10,186.65,2024-01-20,cancelled
+741,Diana,Food,North,2,366.44,2024-09-26,cancelled
+742,Alice,Clothing,north ,1,126.39,2024-11-18,paid
+743,Eve,Clothing,West,10,31.12,2024-06-24,paid
+744,Eve,books ,north ,-1,169.1,2024-06-29,cancelled
+745,Alice,Food,north ,-1,155.52,2024-10-15,PAID
+746,Eve,Electronics,West,0,370.0,2024-01-14,paid
+747,Alice,Books,West,2,309.82,2024-05-20,paid
+748,Eve,electronics,north ,-1,79.81,2024-08-16,shipped
+749,,electronics,East,2,400.69,2024-01-17,paid
+750,Eve,electronics,East,0,496.82,2024-07-15,PAID
+751,  Bob,electronics,north ,-1,421.71,2024-01-28,paid
+752,Diana,books ,East,3,240.75,2024-09-29,PAID
+753,  Bob,Clothing,East,1,147.95,2024-08-17,cancelled
+754,,Electronics,North,10,320.52,2024-08-09,cancelled
+755,Charlie ,Electronics,West,-1,294.17,2024-08-24,shipped
+756,Eve,electronics,north ,3,340.47,2024-04-02,paid
+757,Alice,Electronics,East,1,265.01,2024-12-16,shipped
+758,Charlie ,electronics,North,1,311.6,2024-01-30,shipped
+759,,Electronics,North,1,428.94,2024-03-07,pending
+760,  Bob,Electronics,South,3,150.81,2024-12-04,PAID
+761,Charlie ,books ,West,3,85.17,2024-02-07,paid
+762,Charlie ,Electronics,West,0,136.01,2024-08-13,shipped
+763,  Bob,Food,East,1,76.22,2024-08-08,paid
+764,,Books,North,1,41.1,2024-10-19,PAID
+764,,Books,North,1,41.1,2024-10-19,PAID
+765,Diana,electronics,North,1,333.98,2024-05-16,cancelled
+766,Eve,Electronics,north ,-1,470.26,2024-09-08,PAID
+767,Alice,Clothing,South,1,195.29,2024-12-18,PAID
+768,Eve,Books,West,-1,154.9,2024-01-29,paid
+769,Charlie ,Electronics,East,0,384.42,2024-11-27,pending
+769,Charlie ,Electronics,East,0,384.42,2024-11-27,pending
+770,Diana,Food,South,3,349.46,2024-02-24,cancelled
+771,,books ,South,2,22.67,2024-01-13,pending
+772,Diana,Electronics,north ,-1,157.33,2024-09-30,PAID
+773,Alice,Electronics,West,1,172.17,2024-01-22,shipped
+774,,Clothing,East,-1,435.75,2024-10-01,pending
+775,Alice,Electronics,South,5,328.65,2024-08-29,pending
+775,Alice,Electronics,South,5,328.65,2024-08-29,pending
+776,,Food,South,1,90.26,2024-01-26,paid
+777,  Bob,Clothing,North,0,409.65,2024-02-28,pending
+778,  Bob,books ,West,0,418.77,2024-12-13,paid
+779,Eve,Clothing,South,3,419.03,2024-04-19,pending
+780,Alice,Electronics,West,2,379.99,2024-03-27,pending
+781,  Bob,Clothing,North,2,54.48,2024-11-19,shipped
+781,  Bob,Clothing,North,2,54.48,2024-11-19,shipped
+782,Diana,Electronics,North,1,93.81,2024-02-15,pending
+783,Diana,Food,East,-1,67.81,2024-03-14,pending
+784,  Bob,electronics,north ,-1,23.62,2024-04-02,pending
+785,,Books,West,5,7.26,2024-04-30,pending
+786,Eve,Books,north ,10,113.54,2024-11-16,cancelled
+787,Alice,electronics,East,5,92.28,2024-12-09,paid
+788,Charlie ,electronics,East,3,170.48,2024-08-20,paid
+789,  Bob,electronics,North,5,259.88,2024-02-06,PAID
+790,Charlie ,books ,South,-1,340.04,2024-06-15,paid
+791,Alice,electronics,East,0,103.98,2024-04-22,pending
+792,Diana,electronics,South,10,230.22,2024-07-17,PAID
+793,,Books,West,2,171.27,2024-01-17,paid
+794,Alice,books ,East,5,89.74,2024-06-24,cancelled
+795,,Clothing,South,10,485.22,2024-04-27,pending
+796,  Bob,Clothing,East,0,234.07,2024-01-08,shipped
+797,Diana,Clothing,South,10,473.39,2024-10-20,PAID
+798,Alice,books ,north ,1,215.72,2024-07-20,paid
+799,  Bob,Electronics,north ,0,11.15,2024-07-27,shipped
+800,  Bob,Food,North,1,242.49,2024-06-05,PAID
+801,,Clothing,North,5,234.56,2024-03-11,PAID
+802,Charlie ,Food,East,-1,318.53,2024-11-17,cancelled
+803,Charlie ,books ,West,-1,473.32,2024-10-04,shipped
+804,Alice,Clothing,West,-1,466.46,2024-09-20,cancelled
+805,Alice,books ,West,5,311.47,2024-07-06,pending
+806,Eve,Food,South,2,490.72,2024-05-02,PAID
+807,Eve,Food,South,0,373.78,2024-04-25,cancelled
+808,Diana,Books,North,1,189.54,2024-08-19,pending
+809,Diana,Food,north ,-1,413.56,2024-05-29,cancelled
+810,,Electronics,South,5,48.22,2024-07-19,cancelled
+811,Alice,Electronics,South,3,60.45,2024-03-16,shipped
+812,,Electronics,West,5,484.94,2024-10-04,PAID
+813,Diana,Food,North,3,98.59,2024-01-12,shipped
+814,Eve,Food,West,5,291.46,2024-12-01,cancelled
+815,,Food,north ,0,276.49,2024-08-22,shipped
+816,Charlie ,electronics,West,2,244.7,2024-05-27,paid
+817,Charlie ,books ,South,10,462.45,2024-12-30,shipped
+818,,Food,South,2,122.76,2024-01-22,pending
+819,Charlie ,Books,South,2,283.43,2024-01-18,cancelled
+820,Diana,Clothing,South,10,154.27,2024-01-13,PAID
+821,Diana,Books,South,1,485.22,2024-10-06,cancelled
+822,Charlie ,books ,West,0,490.44,2024-10-20,pending
+823,Diana,Books,North,-1,242.1,2024-01-21,pending
+824,Alice,books ,north ,0,114.08,2024-07-01,paid
+825,  Bob,Clothing,north ,2,391.74,2024-05-22,paid
+826,Diana,Food,North,10,200.24,2024-09-08,pending
+827,Alice,Food,West,5,78.23,2024-08-06,cancelled
+827,Alice,Food,West,5,78.23,2024-08-06,cancelled
+828,Charlie ,Books,West,5,437.78,2024-02-14,PAID
+829,Diana,books ,West,2,403.81,2024-08-05,PAID
+830,Eve,Clothing,North,2,107.85,2024-08-31,pending
+831,Alice,Clothing,East,1,8.28,2024-11-23,PAID
+832,Diana,Food,north ,0,457.86,2024-04-12,PAID
+833,Diana,Electronics,West,0,294.68,2024-09-09,PAID
+834,Alice,electronics,West,3,478.23,2024-11-21,cancelled
+835,Diana,Food,South,1,64.08,2024-05-21,paid
+836,Charlie ,Clothing,East,10,220.85,2024-05-12,PAID
+837,Alice,Books,north ,-1,289.76,2024-05-12,paid
+838,Diana,Food,South,3,85.84,2024-05-19,cancelled
+838,Diana,Food,South,3,85.84,2024-05-19,cancelled
+839,Charlie ,Clothing,North,10,100.94,2024-11-17,paid
+840,  Bob,Clothing,West,0,161.52,2024-12-16,cancelled
+841,,Books,North,10,292.12,invalid-date,pending
+842,Diana,books ,West,2,55.7,2024-03-20,shipped
+843,Eve,Clothing,north ,0,268.39,2024-10-09,paid
+844,Alice,Electronics,South,1,242.36,2024-06-08,shipped
+845,Eve,Clothing,West,2,356.4,2024-01-15,paid
+846,,electronics,South,3,67.05,2024-03-07,PAID
+847,Alice,Electronics,North,0,244.71,2024-08-08,paid
+847,Alice,Electronics,North,0,244.71,2024-08-08,paid
+848,,Clothing,north ,1,237.2,2024-05-09,cancelled
+849,Alice,Electronics,north ,2,295.86,2024-04-12,cancelled
+849,Alice,Electronics,north ,2,295.86,2024-04-12,cancelled
+850,  Bob,Food,West,10,177.18,2024-03-23,pending
+851,Eve,Electronics,North,0,291.18,2024-01-08,shipped
+852,  Bob,Clothing,North,-1,53.85,2024-04-19,PAID
+853,Eve,electronics,East,-1,479.09,2024-04-02,PAID
+854,Eve,electronics,East,1,381.9,2024-06-09,paid
+855,Diana,Books,West,10,362.46,2024-02-12,paid
+856,Diana,Clothing,West,-1,488.21,2024-08-15,PAID
+857,Diana,electronics,North,0,402.21,2024-12-13,paid
+858,Diana,Food,North,5,221.84,2024-12-03,paid
+859,Diana,Food,north ,1,372.01,2024-03-27,shipped
+860,Eve,books ,North,2,419.86,2024-09-12,pending
+861,,books ,West,5,335.01,2024-07-26,pending
+862,Diana,Electronics,North,3,247.22,2024-04-28,shipped
+862,Diana,Electronics,North,3,247.22,2024-04-28,shipped
+863,,Electronics,North,5,340.66,2024-04-01,cancelled
+864,Eve,Clothing,North,0,42.88,2024-09-23,PAID
+865,,books ,East,10,134.52,2024-06-24,pending
+866,Alice,books ,North,5,227.81,2024-07-11,paid
+866,Alice,books ,North,5,227.81,2024-07-11,paid
+867,Eve,Food,West,-1,86.25,2024-08-08,PAID
+868,Alice,Clothing,East,-1,279.12,2024-10-03,PAID
+869,  Bob,Clothing,North,5,135.38,2024-10-29,pending
+870,Charlie ,Books,North,1,297.28,2024-03-06,cancelled
+871,Eve,Electronics,West,5,53.19,2024-06-25,PAID
+872,,electronics,South,2,325.8,2024-10-30,paid
+873,Alice,Books,South,1,271.52,2024-01-20,PAID
+874,Diana,Books,North,-1,237.5,2024-01-12,PAID
+875,Charlie ,Clothing,North,0,246.74,2024-12-19,cancelled
+876,,Books,South,10,153.26,2024-08-11,paid
+877,Eve,electronics,West,3,28.53,2024-10-20,shipped
+878,Alice,Food,north ,1,297.97,2024-05-19,pending
+879,  Bob,Books,North,-1,412.75,2024-09-15,PAID
+880,Charlie ,electronics,East,5,129.38,2024-09-20,pending
+881,Alice,Food,north ,0,97.34,2024-09-12,PAID
+882,,Clothing,north ,0,385.71,2024-08-10,paid
+883,Charlie ,books ,South,2,79.48,2024-12-16,PAID
+884,Alice,Food,South,0,209.16,2024-05-26,cancelled
+885,  Bob,books ,South,1,79.23,2024-01-15,cancelled
+886,Eve,books ,East,-1,453.3,2024-04-13,shipped
+886,Eve,books ,East,-1,453.3,2024-04-13,shipped
+887,Charlie ,Food,north ,2,323.93,2024-01-22,PAID
+888,Alice,Electronics,West,10,152.5,2024-02-02,PAID
+889,,Food,North,5,471.87,2024-03-12,pending
+890,Alice,Clothing,north ,0,466.12,2024-05-08,paid
+891,Alice,Books,West,0,294.24,2024-07-18,shipped
+892,  Bob,electronics,North,2,110.98,2024-05-20,cancelled
+893,Alice,books ,north ,3,351.31,2024-02-27,PAID
+894,  Bob,Books,South,3,240.23,2024-07-07,paid
+895,Eve,Electronics,North,-1,459.14,2024-12-09,pending
+896,,Food,West,0,344.2,2024-09-30,PAID
+897,Diana,Books,West,1,468.48,2024-04-30,shipped
+898,,Books,East,0,21.77,2024-02-11,PAID
+899,Diana,Books,East,0,54.7,2024-03-23,pending
+900,Diana,Clothing,north ,-1,166.75,invalid-date,paid
+901,  Bob,Food,East,0,322.34,2024-01-02,cancelled
+902,Alice,Electronics,South,2,260.6,2024-11-28,pending
+903,Charlie ,books ,East,0,368.91,2024-05-13,pending
+904,Charlie ,electronics,North,5,186.96,2024-07-20,pending
+905,Alice,Clothing,north ,-1,118.21,2024-02-15,shipped
+906,  Bob,Electronics,East,10,217.31,2024-05-13,cancelled
+907,Eve,Electronics,North,-1,265.29,2024-08-20,PAID
+908,,electronics,South,0,407.64,2024-05-16,PAID
+909,Diana,electronics,north ,2,497.63,2024-05-24,shipped
+910,Diana,electronics,North,3,488.18,2024-04-30,shipped
+911,,Food,East,1,10.11,2024-03-09,PAID
+912,,books ,East,-1,300.61,2024-02-07,paid
+913,  Bob,books ,West,10,469.96,2024-11-02,paid
+913,  Bob,books ,West,10,469.96,2024-11-02,paid
+914,Eve,Clothing,East,3,488.87,2024-12-09,pending
+914,Eve,Clothing,East,3,488.87,2024-12-09,pending
+915,  Bob,Books,South,10,248.96,2024-06-22,shipped
+916,,Clothing,East,2,133.9,2024-06-09,shipped
+917,Charlie ,Food,West,5,145.05,2024-05-14,cancelled
+918,Diana,electronics,West,-1,497.31,2024-03-18,PAID
+919,  Bob,Electronics,South,2,22.75,2024-05-13,PAID
+920,Diana,Electronics,East,3,494.47,2024-10-14,PAID
+921,,electronics,North,3,51.32,2024-05-25,shipped
+922,Charlie ,Clothing,north ,2,293.86,2024-01-03,pending
+923,Alice,electronics,East,-1,51.68,invalid-date,paid
+924,Eve,Electronics,West,2,19.29,2024-08-23,PAID
+925,Charlie ,Clothing,North,3,485.04,2024-12-01,PAID
+926,,Food,north ,2,109.63,2024-01-25,cancelled
+927,Alice,Food,North,10,476.19,2024-07-14,cancelled
+928,Diana,Electronics,North,0,108.07,2024-07-17,cancelled
+929,,electronics,North,3,247.97,2024-08-09,cancelled
+930,Eve,electronics,West,-1,52.58,2024-07-07,PAID
+931,Diana,books ,West,10,302.17,2024-02-16,cancelled
+932,Diana,Food,East,1,25.02,2024-06-23,shipped
+933,,electronics,East,10,316.63,2024-09-25,PAID
+934,Diana,Books,South,2,343.74,2024-06-02,pending
+935,Eve,Electronics,north ,1,459.06,2024-09-19,PAID
+936,Diana,Food,north ,0,130.42,2024-05-10,pending
+936,Diana,Food,north ,0,130.42,2024-05-10,pending
+937,,Food,East,2,394.16,2024-07-20,PAID
+938,Charlie ,Books,north ,-1,230.22,2024-12-09,cancelled
+939,  Bob,electronics,South,1,374.78,2024-11-05,paid
+940,Alice,Electronics,East,1,11.59,2024-12-01,PAID
+941,,Clothing,East,3,311.16,2024-11-11,PAID
+942,Alice,electronics,South,1,99.45,2024-01-09,shipped
+943,  Bob,books ,South,-1,124.68,2024-11-16,pending
+944,Charlie ,books ,South,5,213.83,2024-02-29,shipped
+945,Diana,books ,East,1,430.6,2024-10-26,cancelled
+946,Diana,Electronics,West,1,55.82,2024-12-31,PAID
+947,,Clothing,north ,-1,279.38,2024-05-28,PAID
+948,Eve,Food,north ,-1,453.01,2024-09-06,paid
+949,Diana,Clothing,West,10,36.44,2024-11-27,PAID
+950,Eve,Food,West,5,350.27,2024-01-11,shipped
+951,Diana,electronics,north ,2,295.89,2024-12-16,pending
+952,,Food,East,2,442.17,2024-12-30,PAID
+953,,Food,West,0,238.8,2024-03-23,cancelled
+954,Alice,Food,East,2,90.78,2024-03-21,paid
+955,Diana,Books,South,2,280.63,2024-01-10,cancelled
+956,  Bob,electronics,north ,1,404.37,2024-06-21,pending
+957,Eve,electronics,East,3,496.86,2024-06-30,pending
+958,  Bob,Food,north ,10,336.4,2024-12-27,PAID
+959,Alice,Electronics,north ,10,392.17,2024-02-22,paid
+960,  Bob,Food,North,0,106.67,2024-07-04,cancelled
+961,Eve,books ,North,2,325.31,2024-06-20,paid
+962,Diana,books ,North,2,418.23,2024-08-30,pending
+963,Charlie ,Books,East,3,316.57,2024-05-05,pending
+964,  Bob,electronics,East,5,459.42,2024-08-22,pending
+965,Charlie ,Electronics,East,2,386.23,2024-09-21,paid
+966,Diana,electronics,East,1,199.67,2024-01-19,shipped
+967,Alice,Food,north ,3,212.56,2024-12-14,cancelled
+968,Charlie ,Books,North,0,143.49,2024-09-27,shipped
+969,Diana,Food,South,10,314.06,2024-11-12,cancelled
+970,,books ,South,3,46.72,2024-10-02,shipped
+971,Eve,Books,South,1,258.28,2024-06-08,shipped
+971,Eve,Books,South,1,258.28,2024-06-08,shipped
+972,Eve,Clothing,West,2,416.95,2024-06-04,pending
+973,Alice,Books,West,-1,256.21,2024-03-04,paid
+974,Eve,Food,North,5,172.8,2024-04-30,pending
+975,,Food,north ,0,299.8,2024-06-28,pending
+976,,books ,north ,-1,127.58,2024-06-16,shipped
+977,Charlie ,books ,North,2,357.26,2024-07-29,paid
+978,  Bob,books ,South,5,43.65,2024-12-12,pending
+979,Diana,Books,north ,5,320.05,2024-08-13,PAID
+980,Diana,electronics,South,10,67.93,2024-12-30,pending
+981,Alice,Food,South,5,239.31,2024-03-21,cancelled
+982,Alice,Clothing,East,1,64.83,2024-10-19,pending
+983,Charlie ,Books,West,3,150.52,2024-01-15,shipped
+984,Diana,Electronics,West,3,111.71,invalid-date,pending
+985,Alice,books ,East,10,158.3,2024-08-19,PAID
+986,,Clothing,South,0,73.57,2024-11-21,PAID
+987,  Bob,Food,West,1,400.91,2024-12-06,PAID
+988,Diana,Books,north ,1,479.25,2024-08-14,paid
+989,,Electronics,north ,-1,399.1,2024-12-28,paid
+990,Alice,electronics,north ,10,290.54,2024-01-28,pending
+991,Diana,Clothing,North,1,330.84,2024-09-29,paid
+992,  Bob,electronics,north ,5,46.9,2024-09-30,PAID
+993,Diana,Electronics,West,5,94.35,2024-01-13,cancelled
+994,Alice,Electronics,North,10,88.24,2024-03-14,paid
+995,Diana,Food,South,1,309.17,2024-06-15,paid
+996,Alice,Books,South,5,447.04,2024-05-12,paid
+997,  Bob,Clothing,north ,2,249.02,2024-09-15,paid
+998,Charlie ,books ,north ,5,37.4,2024-01-15,shipped
+999,Alice,Books,north ,10,339.17,2024-05-06,shipped
+1000,Diana,books ,North,0,319.72,2024-04-14,shipped

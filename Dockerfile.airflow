@@ -1,0 +1,22 @@
+FROM apache/spark:3.5.1 AS spark
+
+FROM apache/airflow:2.9.3-python3.11
+
+USER root
+
+RUN apt-get update && \
+    apt-get install -y --no-install-recommends default-jre-headless && \
+    rm -rf /var/lib/apt/lists/*
+
+COPY --from=spark /opt/spark /opt/spark
+
+ENV SPARK_HOME=/opt/spark
+ENV PATH=$PATH:/opt/spark/bin
+ENV PYSPARK_PYTHON=python3
+ENV PYTHONPATH=$SPARK_HOME/python:$SPARK_HOME/python/lib/py4j-0.10.9.7-src.zip
+
+COPY target/scala-2.12/etl_simple.jar /opt/airflow/jars/etl_simple.jar
+
+USER airflow
+
+RUN pip install --no-cache-dir apache-airflow-providers-apache-spark==4.7.1
