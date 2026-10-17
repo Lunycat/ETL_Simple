@@ -23,7 +23,10 @@ End-to-end ETL-пайплайн: CSV → Spark (Scala) → Parquet, с орке�
 # 1. Собрать ETL-jar
 sbt clean assembly
 
-# 2. Поднять всё
+# 2. Подготовить папки
+mkdir -p out airflow/logs airflow/plugins
+
+# 3. Поднять всё
 docker compose up -d --build
 ```
 
